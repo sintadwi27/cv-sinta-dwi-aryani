@@ -1,0 +1,6 @@
+{
+  "name": "Sinta Dwi Aryani - Portfolio",
+  "description": "Portofolio pribadi modern Sinta Dwi Aryani dengan transisi animasi halus, profil riset astrofisika dan komputasi, simulasi interaktif, dan CV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
